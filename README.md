@@ -1,2 +1,2 @@
 # hello-world
-Jus another text file to describe my project.
+I am trying to leran how to use GitHub in order to use it for my projects.
